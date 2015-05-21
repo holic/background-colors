@@ -1,0 +1,24 @@
+{
+  "name": "basscss-background-colors",
+  "version": "1.0.0",
+  "description": "Background color styles module for Basscss",
+  "style": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basscss/background-colors.git"
+  },
+  "keywords": [
+    "css",
+    "oocss",
+    "basscss"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basscss/background-colors/issues"
+  },
+  "homepage": "https://github.com/basscss/background-colors",
+  "dependencies": {
+    "basscss-defaults": "^2.0.1"
+  }
+}
