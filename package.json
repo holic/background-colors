@@ -1,6 +1,6 @@
 {
   "name": "basscss-background-colors",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "Background color styles module for Basscss",
   "style": "index.css",
   "repository": {
