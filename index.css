@@ -1,8 +1,8 @@
 /* Basscss Background Colors */
 
-.bg-black, .bg-dark-gray   { background-color: var(--black) }
-.bg-gray, .bg-mid-gray     { background-color: var(--gray) }
-.bg-silver, .bg-light-gray { background-color: var(--silver) }
+.bg-black  { background-color: var(--black) }
+.bg-gray   { background-color: var(--gray) }
+.bg-silver { background-color: var(--silver) }
 .bg-white  { background-color: var(--white) }
 
 .bg-aqua  { background-color: var(--aqua) }
