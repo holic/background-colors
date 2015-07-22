@@ -26,9 +26,11 @@ The color values used in this module are from [mrmrs/colors](http://clrs.cc/).
 <div class="center p1 bg-darken-2">.bg-darken-2</div>
 <div class="center p1 bg-darken-3">.bg-darken-3</div>
 <div class="center p1 bg-darken-4">.bg-darken-4</div>
-<div class="center p1 bg-lighten-1">.bg-lighten-1</div>
-<div class="center p1 bg-lighten-2">.bg-lighten-2</div>
-<div class="center p1 bg-lighten-3">.bg-lighten-3</div>
-<div class="center p1 bg-lighten-4">.bg-lighten-4</div>
+<div class="bg-black">
+  <div class="center p1 white bg-lighten-1">.bg-lighten-1</div>
+  <div class="center p1 white bg-lighten-2">.bg-lighten-2</div>
+  <div class="center p1 white bg-lighten-3">.bg-lighten-3</div>
+  <div class="center p1 white bg-lighten-4">.bg-lighten-4</div>
+</div>
 ```
 
