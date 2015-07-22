@@ -25,5 +25,10 @@
 .bg-darken-3 { background-color: var(--darken-3) }
 .bg-darken-4 { background-color: var(--darken-4) }
 
+.bg-lighten-1 { background-color: var(--lighten-1) }
+.bg-lighten-2 { background-color: var(--lighten-2) }
+.bg-lighten-3 { background-color: var(--lighten-3) }
+.bg-lighten-4 { background-color: var(--lighten-4) }
+
 @import 'basscss-defaults';
 
