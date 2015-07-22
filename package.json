@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/basscss/background-colors",
   "dependencies": {
-    "basscss-defaults": "^2.0.1"
+    "basscss-defaults": "^2.1.0"
   }
 }
